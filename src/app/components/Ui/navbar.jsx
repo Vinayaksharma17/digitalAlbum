@@ -12,7 +12,7 @@ const Navbar = () => {
     >
       <nav className="bg-blue-500 p-4">
         <div className="container mx-auto flex justify-between items-center">
-          <div className="text-white text-lg font-bold">Digital Albumm</div>
+          <div className="text-white text-lg font-bold">Digital Albu</div>
           <ThemeToggle />
         </div>
       </nav>
