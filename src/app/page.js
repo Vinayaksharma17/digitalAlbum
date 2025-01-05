@@ -1,5 +1,5 @@
-import Navbar from "./components/Ui/navbar"
-import TypographyH2 from "./components/Ui/typography"
+import Navbar from "../components/ui/navbar"
+import TypographyH2 from "../components/ui/typography"
 import { Roboto } from "next/font/google"
 
 const roboto = Roboto({
