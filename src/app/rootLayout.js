@@ -3,7 +3,7 @@
 import Navbar from "@/components/ui/navbar"
 import { ThemeProvider } from "@/components/ui/themeProvider"
 import "./globals.css"
-import "material-symbols"
+// import "material-symbols"
 // import { PublicEnvScript } from "next-runtime-env"
 
 export default function RootLayout({ children }) {
